@@ -35,6 +35,19 @@ set {
 }
 
 optimize('bp86-d3', dertype='energy')
+<p>Optimization followed by frequencies H2O HF/cc-pVDZ:</p>
+<pre lang="python">
+#! Optimization followed by frequencies H2O HF/cc-pVDZ
+
+molecule h2o {
+  O 
+  H 1 0.96
+  H 1 0.96 2 104.5
+}
+
+set basis cc-pVDZ
+optimize('scf')
+scf_e, scf_wfn = frequencies('scf', return_wfn=True, dertype=1)
 
 </pre>
 <h2>Reference</h2>
