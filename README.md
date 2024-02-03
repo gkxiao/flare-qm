@@ -12,7 +12,7 @@
 <h2>5. Optimizaiton & Frequency calculation </h2>
 <p>Optimization at BP86-D3/def2-tzvp level:</p>
 <pre lang="python">
-memory 24000 MB 
+memory 24 GB 
 
 molecule triazole_zn {
 2 1
