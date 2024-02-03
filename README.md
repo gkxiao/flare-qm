@@ -1,12 +1,14 @@
-<h2>Flare QM：Simulate ECD spectra</h2>
+<h2>1. Simulate ECD spectra</h2>
 <p>Link：http://blog.molcalx.com.cn/2022/09/27/flare-ecd.html</p>
 
-<h2>Torsion profiling</h2>
+<h2>2. Torsion profiling</h2>
 <p>Link:http://blog.molcalx.com.cn/2020/01/30/qm-torsion-profile.html</p>
 
-<h2>Custom force field</h2>
+<h2>3. Custom force field</h2>
 <p>Link: http://blog.molcalx.com.cn/2020/12/17/custom-force-field.html</p>
 
+<h2>4. Chemistry model</h2>
+<p>Reference 1,2 and 3 </p>
 <h2>Reference</h2>
 <ol>
   <li>PSI4 DFT functionals:<a href="https://psicode.org/psi4manual/4.0b5/dft_byfunctional.html">https://psicode.org/psi4manual/4.0b5/dft_byfunctional.html</a></li>
