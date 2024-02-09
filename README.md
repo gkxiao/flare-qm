@@ -54,5 +54,5 @@ scf_e, scf_wfn = frequencies('scf', return_wfn=True, dertype=1)
 <ol>
   <li>PSI4 DFT functionals:<a href="https://psicode.org/psi4manual/4.0b5/dft_byfunctional.html">https://psicode.org/psi4manual/4.0b5/dft_byfunctional.html</a></li>
   <li>PSI4 Basis sets by elements: <a href="https://psicode.org/psi4manual/master/basissets_byelement.html">https://psicode.org/psi4manual/master/basissets_byelement.html</a></li>
-  <li>M. Bursch, J.-M. Mewes, A. Hansen, S. Grimme, Angew. Chem. Int. Ed. 2022, 61, e202205735; Angew. Chem. 2022, 134, e202205735. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202205735">https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202205735</a></li>
+  <li>M. Bursch, J.-M. Mewes, A. Hansen, S. Grimme. Best-Practice DFT Protocols for Basic Molecular Computational Chemistry. Angew. Chem. Int. Ed. 2022, 61, e202205735. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202205735">https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202205735</a></li>
 </ol>
